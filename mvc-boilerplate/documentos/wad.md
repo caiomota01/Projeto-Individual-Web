@@ -28,7 +28,7 @@ Criar um sistema web responsivo e amigável que centralize compromissos e tarefa
 
 ### 2.1. Personas (Semana 01)
 
-<img src="assets\Persona.png">
+<img src="assets\Persona.png" alt="Persona - Theo Oliveira">
 
 ---
 
